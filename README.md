@@ -1,3 +1,3 @@
-# student-data-project
+# A Student Grade Classification Project
 
-# work in progress :) 
+## A work in progress: please view notebook for more details! 
