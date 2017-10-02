@@ -8,9 +8,11 @@ Having previously worked at a classroom learning/management platform edtech star
 
 The dataset below was provided by Kaggle, and gives a snapshot of student engagement and student background as well as their corresponding final grades (classified by 3 categories: high-level grades, middle-levelgrades, & low-level grades.
 
-This project aims to determine which factors are the greatest indicators in identifying a student as being at‐risk either behaviorally or academically and to make predictions, based on these factors, of which students belong to which grade class (high, middle or low).
+<p align = "center">
+<img src = "https://github.com/jadexshao/Student_Data_Project/blob/master/stoplight%20assessment.jpg"
+</p>
 
-![Stoplight Assessment](https://github.com/jadexshao/Student_Data_Project/blob/master/stoplight%20assessment.jpg)
+This project aims to determine which factors are the greatest indicators in identifying a student as being at‐risk either behaviorally or academically and to make predictions, based on these factors, of which students belong to which grade class (high, middle or low).
 
 
 **Please view notebook for more details!**
