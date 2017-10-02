@@ -10,5 +10,4 @@ The dataset below was provided by Kaggle, and gives a snapshot of student engage
 
 This project aims to determine which factors are the greatest indicators in identifying a student as being at‐risk either behaviorally or academically and to make predictions, based on these factors, of which students belong to which grade class (high, middle or low).
 
-
-Please view notebook for more details! 
+**Please view notebook for more details!**
